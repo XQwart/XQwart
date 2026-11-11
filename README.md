@@ -31,7 +31,7 @@ I work on machine learning, mostly with text: from classic models to fine-tuned 
 |---------|------------|-------|
 | [**ai-social-support-assistant**](https://github.com/XQwart/ai-social-support-assistant) | Assistant for Russian social benefits: a LangChain agent with regional RAG, web search and cited sources. Team project; my parts were the agent's prompts and guard middleware, end-to-end token streaming, the admin panel for prompts and the knowledge base, and the frontend | LangChain, LangGraph, Qdrant, FastAPI |
 | [**russian-text-classifier**](https://github.com/XQwart/russian-text-classifier) | Fine-tunes RuBERT to classify Russian texts, with lemmatization and contextual augmentation | PyTorch, Transformers |
-| [**Precious-Metals-News-Analyzer**](https://github.com/XQwart/Precious-Metals-News-Analyzer) | Collects financial news from RSS, filters it by keywords, and has an LLM judge relevance and write summaries | DeepSeek, BeautifulSoup |
+| [**Precious-Metals-News-Analyzer**](https://github.com/XQwart/Precious-Metals-News-Analyzer) | Collects financial news from RSS, filters it by keywords, and has an LLM judge relevance and write summaries | OpenAI API, BeautifulSoup |
 | [**mlops-labs**](https://github.com/XQwart/mlops-labs) | Six projects that take models from a notebook to production: orchestration, experiment tracking, CI, reproducible pipelines and a tested model API | Airflow, MLflow, DVC, FastAPI |
 
 ### Activity
